@@ -4,7 +4,7 @@ Does not know what he is doing, but likes to do pointless stuff for fun.
 
 ---
 
-| [Website - Joseos123/joseos.com](https://github.com/Joseos123/joseos.com) | [Repository - Joseos123/repo.joseos.com](https://github.com/Joseos123/repo.joseos.com) | [theboi/theboi](https://github.com/theboi/theboi) |
+| [Joseos123/joseos.com](https://github.com/Joseos123/joseos.com) | [Joseos123/repo.joseos.com](https://github.com/Joseos123/repo.joseos.com) | [theboi/theboi](https://github.com/theboi/theboi) |
 | :-: | :-: | :-: |
 | <a href="https://github.com/Joseos123/joseos.com"><img src="/logo.png" alt="Joseos123/joseos.com" title="Joseos123/joseos.com" width="200" height="200"></a> | <a href="https://github.com/Joseos123/repo.joseos.com"><img src="/logo.png" alt="Joseos123/repo.joseos.com" title="Joseos123/repo.joseos.com" width="200" height="200"></a> | <a href="https://github.com/theboi/theboi"><img src="https://github.com/theboi/theboi/raw/master/DISPLAY.jpg" alt="theboi/theboi" title="theboi/theboi" width="200" height="200"></a> |
 
