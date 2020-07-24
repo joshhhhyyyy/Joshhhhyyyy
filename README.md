@@ -8,8 +8,7 @@ Does not know what he is doing, but likes to do pointless stuff for fun.
 
 | [Joseos123/Gradient](https://github.com/Joseos123/Gradient) | [Joseos123/beta](https://github.com/Joseos123/beta) | [Joseos123/Nil](#) | [Joseos123/Joseos123](https://github.com/Joseos123/Joseos123) |
 | :-: | :-: | :-: | :-: |
-| Moving Gradient | Beta Repository | Nothing Yet! | Repo for This |
-| !(https://placebear.com/300/300) | !(https://placebear.com/300/300) | !(https://placebear.com/300/300) | !(https://placebear.com/300/300) |
+| Moving Gradient  !(https://placebear.com/300/300) | Beta Repository  !(https://placebear.com/300/300) | Nothing Yet!  !(https://placebear.com/300/300) | Repo for This  !(https://placebear.com/300/300) |
 
 
 **My website yes [joseos.com](https://joseos.com)!**
