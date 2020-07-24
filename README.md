@@ -1,9 +1,3 @@
-<style>
-table {
-    width:25%;
-}
-</style>
-
 ## Lmao hi
 
 Does not know what he is doing, but likes to do pointless stuff for fun.
@@ -18,3 +12,9 @@ Does not know what he is doing, but likes to do pointless stuff for fun.
 
 
 **My website yes [joseos.com](https://joseos.com)!**
+
+<style>
+table {
+    width:25%;
+}
+</style>
