@@ -6,7 +6,7 @@ Does not know what he is doing, but likes to do pointless stuff for fun.
 | :-: | :-: | :-: | :-: |
 | My Website | My Repository | Link Shortener | GH Pages Redirect |
 
-| [Joseos123/GradientBanner](https://github.com/Joseos123/GradientBanner) | [Joseos123/beta](https://github.com/Joseos123/beta) | [Joseos123/Nil](#) | [Joseos123/Joseos123](https://github.com/Joseos123/Joseos123) |
+| [Joseos123/Gradient](https://github.com/Joseos123/Gradient) | [Joseos123/beta](https://github.com/Joseos123/beta) | [Joseos123/Nil](#) | [Joseos123/Joseos123](https://github.com/Joseos123/Joseos123) |
 | :-: | :-: | :-: | :-: |
 | Moving Gradient | Beta Repository | Nothing Yet! | Repo for This |
 
