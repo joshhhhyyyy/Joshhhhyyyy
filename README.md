@@ -1,3 +1,9 @@
+<style>
+table {
+    width:25%;
+}
+</style>
+
 ## Lmao hi
 
 Does not know what he is doing, but likes to do pointless stuff for fun.
