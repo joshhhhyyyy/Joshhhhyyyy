@@ -12,12 +12,12 @@ Does not know what he is doing, but likes to do pointless stuff for fun.
 
 <a href="https://joseos.com">
 	<img src="/Resources/link.svg" width="40" height="40"></a>
-<a href="https://www.instagram.com/joshhhhhhyyyyyy/">
+<a href="https://www.instagram.com/joshhhhhhyyyyyy/">&nbsp;&nbsp;
 	<img src="/Resources/instagram.svg" width="40" height="40"></a>
-<a href="https://t.me/joshhhhyyyy">
+<a href="https://t.me/joshhhhyyyy">&nbsp;&nbsp;
 	<img src="/Resources/telegram.svg" width="40" height="40"></a>
-<a href="https://www.reddit.com/user/Joseos_123">
+<a href="https://www.reddit.com/user/Joseos_123">&nbsp;&nbsp;
 	<img src="/Resources/reddit.svg" width="40" height="40"></a>
-<a href="mailto:Joshua@joseos.com">
+<a href="mailto:Joshua@joseos.com">&nbsp;&nbsp;
 	<img src="/Resources/envelope.svg" width="40" height="40"></a>
 
