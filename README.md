@@ -1,17 +1,5 @@
 ## Lmao hi
       
- <rect 
-      data-testid="card-bg"
-      x="0.5"
-      y="0.5"
-      width="494"
-      height="99%"
-      rx="4.5"
-      fill="#141321"
-      stroke="#E4E2E2"
-      stroke-opacity="1"
-    />
-
 Does not know what he is doing, but likes to do pointless stuff for fun.
 
 | [Joseoscom/Website](https://github.com/joseoscom/joseos.com) | [Joseoscomrepo/Repo](https://github.com/joseoscomrepo/repo.joseos.com) | [Joseoscom/beta](https://github.com/joseoscom/beta) | [Joseos123/Redirects](https://github.com/Joseos123/beta) |
