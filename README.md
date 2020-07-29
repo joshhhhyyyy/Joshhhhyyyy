@@ -1,4 +1,5 @@
-## Joshua/Joshhyy/Joseos123
+# Joshua
+## aka Joshhyy/Joseos123
 <a href="https://joseos.com">
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/link.svg" width="22" height="22"></a>
 <a href="https://www.instagram.com/joshhhhhhyyyyyy/">&nbsp;&nbsp;
