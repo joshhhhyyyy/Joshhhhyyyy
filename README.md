@@ -1,4 +1,4 @@
-<h1><img src="https://avatars3.githubusercontent.com/u/59199097?s=460&u=3b7d8e052c006a260b73a569fae5e306c65c1623&v=4" width="96" height="90"><br>
+<h1><img src="https://avatars3.githubusercontent.com/u/59199097?s=460&u=3b7d8e052c006a260b73a569fae5e306c65c1623&v=4" width="90" height="90"><br>
  Joshua &nbsp;&nbsp;&nbsp;&nbsp;<u>
 <a href="https://joseos.com">
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/link.svg" width="23" height="23"></a>
