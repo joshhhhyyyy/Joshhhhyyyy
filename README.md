@@ -1,5 +1,5 @@
 <img src="https://avatars3.githubusercontent.com/u/59199097?s=460&u=3b7d8e052c006a260b73a569fae5e306c65c1623&v=4" width="60" height="60">
-<h1> Joshua &nbsp;**|**&nbsp;&nbsp;
+<h1> Joshua &nbsp;|&nbsp;&nbsp;
 <a href="https://joseos.com">
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/link.svg" width="25" height="25"></a>
 <a href="https://www.instagram.com/joshhhhhhyyyyyy/">&nbsp;&nbsp;
