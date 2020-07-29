@@ -1,15 +1,14 @@
-<h1><img src="https://avatars3.githubusercontent.com/u/59199097?s=460&u=3b7d8e052c006a260b73a569fae5e306c65c1623&v=4" width="90" height="90"><br>
- Joshua &nbsp;&nbsp;&nbsp;&nbsp;<u>
+<h1> Joshua &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://joseos.com">
-	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/link.svg" width="23" height="23"></a>
+	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/link.svg" width="21" height="21"></a>
 <a href="https://www.instagram.com/joshhhhhhyyyyyy/">&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/instagram.svg" width="23" height="23"></a>
+	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/instagram.svg" width="21" height="21"></a>
 <a href="https://t.me/joshhhhyyyy">&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/telegram.svg" width="23" height="23"></a>
+	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/telegram.svg" width="21" height="21"></a>
 <a href="https://www.reddit.com/user/Joseos_123">&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/reddit.svg" width="23" height="23"></a>
+	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/reddit.svg" width="21" height="21"></a>
 <a href="mailto:Joshua@joseos.com">&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/envelope.svg" width="23" height="23"></a></u>
+	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/envelope.svg" width="21" height="21"></a>
 </h1>
 
 ***aka*** ***Joshhyy*** **/** ***Joseos123***	 
