@@ -2,7 +2,7 @@
 <h2> Joshua &nbsp;&nbsp;
 <a href="https://joseos.com">
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/link.svg" width="22" height="22"></a>
-<a href="https://www.instagram.com/joshhhhhhyyyyyy/">
+<a href="https://www.instagram.com/joshhhhhhyyyyyy/">&nbsp;&nbsp;
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/instagram.svg" width="22" height="22"></a>
 <a href="https://t.me/joshhhhyyyy">&nbsp;&nbsp;
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/telegram.svg" width="22" height="22"></a>
