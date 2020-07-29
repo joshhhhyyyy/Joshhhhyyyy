@@ -10,5 +10,14 @@ Does not know what he is doing, but likes to do pointless stuff for fun.
 | :-: | :-: | :-: | :-: |
 | Moving Gradient | Beta Repository | Nothing Yet! | Repo for This |
 
+<a href="https://joseos.com">
+	<img src="/Resources/link.svg" width="80" height="80"></a>
+<a href="https://www.instagram.com/joshhhhhhyyyyyy/">
+	<img src="/Resources/instagram.svg" width="80" height="80"></a>
+<a href="https://t.me/joshhhhyyyy">
+	<img src="/Resources/telegram.svg" width="80" height="80"></a>
+<a href="https://www.reddit.com/user/Joseos_123">
+	<img src="/Resources/reddit.svg" width="80" height="80"></a>
+<a href="mailto:Joshua@joseos.com">
+	<img src="/Resources/envelope.svg" width="80" height="80"></a>
 
-**My website yes [joseos.com](https://joseos.com)!**
