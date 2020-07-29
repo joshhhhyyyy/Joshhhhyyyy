@@ -1,12 +1,5 @@
-<style>
-body {
-font-size: 90px
-}
-</style>
-
-<body>
 <img src="https://avatars3.githubusercontent.com/u/59199097?s=460&u=3b7d8e052c006a260b73a569fae5e306c65c1623&v=4" width="60" height="60">
-<p><em><b>Joshua</b></em></p>
+<p style="font-size:50px"><em><b>Joshua</b></em></p>
 <em>aka</em> <b>Joshhyy</b>/<b>Joseos123</b>
 <a href="https://joseos.com">
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/link.svg" width="22" height="22"></a>
