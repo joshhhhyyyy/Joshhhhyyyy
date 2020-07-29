@@ -10,7 +10,5 @@ Does not know what he is doing, but likes to do pointless stuff for fun.
 | :-: | :-: | :-: | :-: |
 | Moving Gradient | Beta Repository | Nothing Yet! | Repo for This |
 
-![Joshhyy's github stats](https://github-readme-stats.vercel.app/api?username=Joseos123&hide=contribs,prs,show_icons=true&theme=radical)
-
 
 **My website yes [joseos.com](https://joseos.com)!**
