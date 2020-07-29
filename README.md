@@ -9,6 +9,7 @@
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/reddit.svg" width="22" height="22"></a>
 <a href="mailto:Joshua@joseos.com">&nbsp;&nbsp;
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/envelope.svg" width="22" height="22"></a>
+
 Does not know what he is doing, but likes to do pointless stuff for fun.
 
 | [Joseoscom/Website](https://github.com/joseoscom/joseos.com) | [Joseoscomrepo/Repo](https://github.com/joseoscomrepo/repo.joseos.com) | [Joseoscom/beta](https://github.com/joseoscom/beta) | [Joseos123/Redirects](https://github.com/Joseos123/beta) |
