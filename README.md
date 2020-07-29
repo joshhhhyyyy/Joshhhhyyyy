@@ -1,5 +1,6 @@
-<img src="https://avatars3.githubusercontent.com/u/59199097?s=460&u=3b7d8e052c006a260b73a569fae5e306c65c1623&v=4" width="60" height="60"><br><h1>Joshua</h1>
-<h2>aka Joshhyy/Joseos123</h2>
+<img src="https://avatars3.githubusercontent.com/u/59199097?s=460&u=3b7d8e052c006a260b73a569fae5e306c65c1623&v=4" width="60" height="60">
+<text>Joshua</text>
+<text>aka Joshhyy/Joseos123</text>
 <a href="https://joseos.com">
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/link.svg" width="22" height="22"></a>
 <a href="https://www.instagram.com/joshhhhhhyyyyyy/">&nbsp;&nbsp;
