@@ -35,5 +35,5 @@ Does not know what he is doing, but likes to do pointless stuff for fun.
 
 | [Website](https://github.com/joseoscom/joseos.com) | [Repo](https://github.com/joseoscomrepo/repo.joseos.com) | [Testing](https://github.com/joseoscom/beta) | [Redirects](https://github.com/Joseos123/Redirects) |
 | :-: | :-: | :-: | :-: |
-| My Website | My Repository | Beta Website | GH Pages Redirect |
+| My Website | My Repository | &nbsp;&nbsp;Beta Website&nbsp;&nbsp; | GH Pages Redirect |
 
