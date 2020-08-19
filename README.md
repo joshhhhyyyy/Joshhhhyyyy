@@ -31,7 +31,7 @@ Does not know what he is doing, but likes to do pointless stuff for fun.
 
 | [Openfire](https://github.com/Joseos123/OpenFire) |
 | :-: |
-| An app that is designed to fight fires faster and more efficiently by communicating information more effectively.|
+| &nbsp;An app that is designed to fight fires faster and more efficiently by communicating information more effectively.&nbsp; |
 
 | [Website](https://github.com/joseoscom/joseos.com) | [Repo](https://github.com/joseoscomrepo/repo.joseos.com) | [Testing](https://github.com/joseoscom/beta) | [Redirects](https://github.com/Joseos123/Redirects) |
 | :-: | :-: | :-: | :-: |
