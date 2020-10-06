@@ -29,10 +29,6 @@ Does not know what he is doing, but likes to do pointless stuff for fun.
 
 ## Projects
 
-| [Openfire](https://github.com/Joseos123/OpenFire) |
-| :-: |
-|&nbsp;An app that is designed to fight fires faster and more efficiently by communicating information more effectively.&nbsp;|
-
 | [Website](https://github.com/joseoscom/joseos.com) | [Repo](https://github.com/joseoscomrepo/repo.joseos.com) | [Testing](https://github.com/joseoscom/beta) | [Redirects](https://github.com/Joseos123/Redirects) |
 | :-: | :-: | :-: | :-: |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Redirect on GH Pages&nbsp;&nbsp;&nbsp;&nbsp; |
