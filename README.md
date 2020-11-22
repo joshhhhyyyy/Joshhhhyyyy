@@ -8,7 +8,7 @@
 </h1>
  
 
-Does not know what he is doing, but likes to do pointless stuff for fun.
+random. very random. still too lazy to commit and learn how to code properly :)
 
 
 ## Languages
