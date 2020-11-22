@@ -1,4 +1,4 @@
-<h1> Joshua &nbsp;&nbsp;&nbsp;&nbsp;
+<h1> Joshyy &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://joseos.com">
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/instagram.svg" width="21" height="21"></a>
 <a href="https://t.me/joshhhhyyyy">&nbsp;&nbsp;
@@ -6,8 +6,7 @@
 <a href="mailto:Joshua@joseos.com">&nbsp;&nbsp;
 	<img src="https://raw.githubusercontent.com/Joseos123/Joseos123/master/Resources/envelope.svg" width="21" height="21"></a>
 </h1>
-
-***aka*** ***Joshhyy*** **/** ***Joseos123***	 
+ 
 
 Does not know what he is doing, but likes to do pointless stuff for fun.
 
