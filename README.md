@@ -1,34 +1,25 @@
 # Hi, im Joshua! &nbsp;&nbsp;&nbsp;&nbsp;
 
-```
-#!/my/life
-haters > /dev/null™
-```
-
-```
-package main
-import (
-      "google"
-      "stackoverflow"
-      "friends' DMs"
-)
+``` 
+#!/my/life  
+haters > /dev/null™       
 ```
 
-## About
+## About 🤔🤔🤔
 Learning how to code **PROPERLY**!! *(for the time being)*
 
 Commiting surprisingly regularly *(for the time being)*
 
 Anime addict *(forever)*
 
-## Relationships 👉👈
+## Relationships 👉👈😩
 **LOVES** ❤️ **GO** and **BASH** and **NODE.JS**
 
 **IN BED** 🛌 WITH **HTML** and **CSS**
 
 **FRIENEMIES** 😫 WITH **JS** and **TS**
 
-## Languages i use very often
+## Languages i use very often ❤️
 <img align="left" alt="Go" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/320px-Go_Logo_Blue.svg.png" />
 <img align="left" alt="Bash" height="30px" src="https://bashlogo.com/img/logo/png/full_colored_light.png" />
 <br />
