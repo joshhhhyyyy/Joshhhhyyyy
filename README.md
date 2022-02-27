@@ -16,7 +16,9 @@ import (
 
 ## About
 Learning how to code **PROPERLY**!! *(for the time being)*
+
 Commiting surprisingly regularly *(for the time being)*
+
 Anime addict *(forever)*
 
 **LOVES** ❤️ **GO** and **BASH** and **NODE.JS**
