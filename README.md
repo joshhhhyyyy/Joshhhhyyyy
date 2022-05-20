@@ -6,11 +6,7 @@ haters > /dev/null™
 ```
 
 ## About 🤔🤔🤔
-Learning how to code **PROPERLY**!! *(for the time being)*
-
-Commiting surprisingly regularly *(for the time being)*
-
-Anime addict *(forever)*
+on hiatus
 
 ## TOGETHER FOREVER ❤️
 <img align="left" alt="Go" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/320px-Go_Logo_Blue.svg.png" /><img align="left" alt="Bash" height="40px" src="https://bashlogo.com/img/logo/png/full_colored_light.png" />
