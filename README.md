@@ -5,5 +5,5 @@
 haters > /dev/null™       
 ```
 
-## About 🤔🤔🤔
+## About
 passionate about technology and creating new things!
